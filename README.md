@@ -1,1 +1,1 @@
-# SpotifyApp
+# spotify-api-workshop
